@@ -1,4 +1,4 @@
 # Movie-Website
 
 ## Requirements
-* Languages: 'HTML', 'CSS', 'JS'
+* Languages: HTML , CSS, JS
